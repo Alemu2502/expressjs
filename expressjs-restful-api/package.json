@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-restful-api",
+  "version": "1.0.0",
+  "description": "Sample project to demo API development using expressjs node and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Alemu Molla",
+  "license": "ISC",
+  "devDependencies": {
+    "dot-prop": "^4.2.1",
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-healthcheck": "^0.1.0",
+    "mongoose": "^5.7.5"
+  }
+}
