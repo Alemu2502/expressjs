@@ -52,10 +52,10 @@ Basically this project contains RESTful APIs for CRUD operations which developed
 
 Open your terminal and follow the following steps.
 1. Clone this project to your computer \
-**`git clone https://github.com/Alemu2502/expressjs-restful-api.git`**
+**`git clone https://github.com/Alemu2502/expressjs.git`**
 
 2. Navigate to the project folder \
-**`cd expressjs-restful-api`**
+**`cd expressjs`**
 
 3. Install the relevant node modules \
 **`npm install`**
