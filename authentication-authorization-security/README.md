@@ -3,13 +3,10 @@ Tables of Contents
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Authentication](#authentication)
-4. [User Registration](#user-registration)
-5. [Login](#login)
-6. [Password Reset](#password-reset)
-7. [Authentication Middleware](#authentication-middleware)
-8. [Authorization](#authorization)
-9. [Security](#security)
-10. [API Reference](#api-reference)
+4. [Authentication Middleware](#authentication-middleware)
+5. [Authorization](#authorization)
+6. [Security](#security)
+7. [API Reference](#api-reference)
 
 # Authentication & Authorization & Security
 
@@ -38,15 +35,15 @@ An overview of the authentication, authorization and security considerations for
 
 Authentication is the process of verifying the identity of a user or system. In the context of a back-end application, it ensures that only authorized users can access protected resources. Here are some key considerations for implementing authentication:
 
-# User Registration
+## User Registration
 
 Implement a user registration process that collects necessary information, such as username, email, and password. Ensure that password requirements, such as length and complexity, are enforced.
 
-# Login
+## Login
 
 Provide a secure login mechanism using sessions or tokens. Validate user credentials against stored data and generate authentication tokens or session cookies for subsequent requests.
 
-# Password Reset
+## Password Reset
 
 Offer a secure password reset functionality that involves verifying the user's identity through a password reset email or other verification methods.
 
@@ -58,11 +55,11 @@ Use middleware to authenticate requests. This middleware should check for valid 
 
 Authorization determines what actions a user can perform within an application. It ensures that authenticated users have the necessary permissions to access or modify specific resources. Consider the following when implementing authorization
 
-#### Role-Based Access Control
+## Role-Based Access Control
 
 Implement role-based access control (RBAC) to assign different permissions to different user roles. For example, an administrator role might have more privileges than a regular user role.
 
-#### Resource-Based Authorization
+## Resource-Based Authorization
 
 Control access to specific resources based on user roles and ownership. Ensure that users can only access resources they are authorized to view or modify.
 
