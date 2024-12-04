@@ -1,6 +1,9 @@
 1. [Rest](#rest)
 2. [Express.js](#expressjs)
-
+3. [Tools/technologies](#toolstechnologies)
+4. [Pre-requisites](#pre-requisites)
+5. [Getting started](#getting-started)
+6. [Testing via Postman](#testing-via-postman)
 
 # RESTful API Development using Express.js
 
@@ -40,7 +43,7 @@ Let’s see some of the core features of Express framework
 * Robust API makes routing easy
 <br />
 
-## Tools/Technologies
+# Tools/Technologies
 * Node.js
 * MongoDB
 * Text editor (Notepad++, Sublime, Atom, VSCode)
@@ -53,7 +56,7 @@ Node.js and MongoDB should be installed. If you haven’t installed them, you ca
 * [MongoDB](https://docs.mongodb.com/manual/installation/)
 <br />
 
-## Getting started here
+## Getting started
 Basically this project contains RESTful APIs for CRUD operations which developed using Mongoose and Express.js. 
 
 Open your terminal and follow the following steps.
@@ -96,3 +99,4 @@ Open your postman and type:
 6. It will give the response as **201 (Created)**
 
 **Note**: Health route can be verified using **GET http://localhost:3000/health**
+

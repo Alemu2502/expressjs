@@ -1,6 +1,6 @@
 # Main Project Repository
 
-Welcome to the main repository. This repository contains two projects, each with its own detailed README file. Below, you will find links to the individual project README files.
+Welcome to the main repository. This repository contains two projects, each with its own detailed README file. Below, you will find links to the individual project detailed.
 
 ## Table of Contents
 
