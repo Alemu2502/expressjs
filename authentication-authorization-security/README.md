@@ -7,6 +7,9 @@ Tables of Contents
 5. [Authorization](#authorization)
 6. [Security](#security)
 7. [API Reference](#api-reference)
+8. [Contribution](#contribution)
+9. [License](#license)
+10. [Conclusion](#conclusion)
 
 # Authentication & Authorization & Security
 
@@ -229,3 +232,17 @@ Start the server on **production** environment
 ```bash
   npm run start:prod
 ```
+
+# Contribution
+
+Feel free to contribute to this project by creating a pull request or opening an issue.
+
+# License
+
+Distributed under the MIT License.
+
+# Conclusion
+
+This project highlights the implementation of robust authentication, authorization, and security measures for a back-end application built with Node.js, Express.js, MongoDB, and Mongoose. By focusing on best practices such as secure password hashing, role-based access control, and input validation, the application ensures the safety and integrity of user data.
+
+With features like security HTTP headers, rate limiting, data sanitization, and secure session management, this project provides a comprehensive approach to securing web applications. By following these guidelines, you can safeguard your applications against common security threats and provide a safe environment for users.

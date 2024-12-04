@@ -1,13 +1,13 @@
 'use strict';
-var tasksList = require('../controllers/tasksController');
+import tasksList from '../controllers/tasksController.js';
 
-module.exports = function(app){
-app.route('/tasks')
-  .get(tasksList.getAllTasks)
-  .post(tasksList.createNewTask);
+export default function(app) {
+  app.route('/tasks')
+    .get(tasksList.getAllTasks)
+    .post(tasksList.createNewTask);
 
-app.route('/tasks/:taskId')
-  .get(tasksList.getTaskById)
-  .patch(tasksList.editTaskById)
-  .delete(tasksList.deleteTaskById)
-};
+  app.route('/tasks/:taskId')
+    .get(tasksList.getTaskById)
+    .patch(tasksList.editTaskById)
+    .delete(tasksList.deleteTaskById);
+}

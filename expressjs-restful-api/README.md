@@ -4,6 +4,9 @@
 4. [Pre-requisites](#pre-requisites)
 5. [Getting started](#getting-started)
 6. [Testing via Postman](#testing-via-postman)
+7. [Contribution](#contribution)
+8. [License](#license)
+9. [Conclusion](#conclusion)
 
 # RESTful API Development using Express.js
 
@@ -100,3 +103,14 @@ Open your postman and type:
 
 **Note**: Health route can be verified using **GET http://localhost:3000/health**
 
+
+# Contribution
+
+Feel free to contribute to this project by creating a pull request or opening an issue.
+
+# License
+
+Distributed under the MIT License.
+
+# Conclusion
+This project demonstrates the development of a robust RESTful API using Express.js, Node.js, and MongoDB. By leveraging the benefits of these technologies, the project showcases how to efficiently manage CRUD operations, set up middleware for HTTP requests, and structure a powerful, asynchronous server.
