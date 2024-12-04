@@ -14,13 +14,13 @@ Welcome to the main repository. This repository contains two projects, each with
 
 **Overview**: Provide a brief description of what Project 1 is about. Include the main objectives or features.
 
-- [Detailed README for Project 1](.https://github.com/Alemu2502/expressjs/tree/main/authentication-authorization-security/README.md)
+- [Detailed README for Authentication-Autorization-Security](./expressjs/authentication-authorization-security/README.md)
 
 ## Expressjs-Restful_API
 
 **Overview**: Provide a brief description of what Project 2 is about. Include the main objectives or features.
 
-- [Detailed README for Project 2](.https://github.com/Alemu2502/expressjs/tree/main/authentication-authorization-security/README.md)
+- [Detailed README for Expressjs-Restful_API](./expressjs/expressjs-restful-api/README.md)
 
 ## Getting Started
 
