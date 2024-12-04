@@ -12,15 +12,16 @@ Welcome to the main repository. This repository contains two projects, each with
 
 ## Authentication-Autorization-Security
 
-**Overview**: Provide a brief description of what Project 1 is about. Include the main objectives or features.
+**Overview**: Provide a brief description of what Authentication-Autorization-Security
+ is about. Include the main objectives or features.
 
-- [Detailed README for Authentication-Autorization-Security](./expressjs/authentication-authorization-security/README.md)
+- [Detailed README for Authentication-Autorization-Security](./authentication-authorization-security/README.md)
 
 ## Expressjs-Restful_API
 
-**Overview**: Provide a brief description of what Project 2 is about. Include the main objectives or features.
+**Overview**: Provide a brief description of what Expressjs-Restful_API is about. Include the main objectives or features.
 
-- [Detailed README for Expressjs-Restful_API](./expressjs/expressjs-restful-api/README.md)
+- [Detailed README for Expressjs-Restful_API](./expressjs-restful-api/README.md)
 
 ## Getting Started
 
