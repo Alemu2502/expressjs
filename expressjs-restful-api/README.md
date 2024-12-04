@@ -5,8 +5,9 @@
 5. [Getting started](#getting-started)
 6. [Testing via Postman](#testing-via-postman)
 7. [Contribution](#contribution)
-8. [License](#license)
-9. [Conclusion](#conclusion)
+8. [Contact](#contact)
+9. [License](#license)
+10. [Conclusion](#conclusion)
 
 # RESTful API Development using Express.js
 
@@ -107,6 +108,16 @@ Open your postman and type:
 # Contribution
 
 Feel free to contribute to this project by creating a pull request or opening an issue.
+
+# Contact
+For any questions, suggestions, or collaboration opportunities, feel free to connect with me through the following channels:
+
+- Email: alemu4617@gmail.com
+- LinkedIn: https://www.linkedin.com/in/Alemu2502 - Connect with me professionally.
+- Facebook: https://www.facebook.com/alemu.molla.1806
+- Twitter: https://twitter.com/ALEXSEPPRO
+
+Follow me for updates and insights.
 
 # License
 

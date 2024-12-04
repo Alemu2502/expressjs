@@ -8,7 +8,8 @@ Welcome to the main repository. This repository contains two projects, each with
 2. [Expressjs-Restful_API](#Expressjs-Restful_API)
 3. [Getting Started](#getting-started)
 4. [Contributions](#contributions)
-5. [License](#license)
+5. [Contact](#contact)
+6. [License](#license)
 
 ## Authentication-Autorization-Security
 
@@ -30,6 +31,16 @@ To get started with these projects, follow the links to the individual README fi
 ## Contributions
 
 Contributions are welcome! Please read the individual project README files for more information on how to contribute.
+
+# Contact
+For any questions, suggestions, or collaboration opportunities, feel free to connect with me through the following channels:
+
+- Email: alemu4617@gmail.com
+- LinkedIn: https://www.linkedin.com/in/Alemu2502 - Connect with me professionally.
+- Facebook: https://www.facebook.com/alemu.molla.1806
+- Twitter: https://twitter.com/ALEXSEPPRO
+
+Follow me for updates and insights.
 
 ## License
 

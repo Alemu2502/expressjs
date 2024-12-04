@@ -8,8 +8,9 @@ Tables of Contents
 6. [Security](#security)
 7. [API Reference](#api-reference)
 8. [Contribution](#contribution)
-9. [License](#license)
-10. [Conclusion](#conclusion)
+9. [Contact](#contact)
+10. [License](#license)
+11. [Conclusion](#conclusion)
 
 # Authentication & Authorization & Security
 
@@ -236,6 +237,16 @@ Start the server on **production** environment
 # Contribution
 
 Feel free to contribute to this project by creating a pull request or opening an issue.
+
+# Contact
+For any questions, suggestions, or collaboration opportunities, feel free to connect with me through the following channels:
+
+- Email: alemu4617@gmail.com
+- LinkedIn: https://www.linkedin.com/in/Alemu2502 - Connect with me professionally.
+- Facebook: https://www.facebook.com/alemu.molla.1806
+- Twitter: https://twitter.com/ALEXSEPPRO
+
+Follow me for updates and insights.
 
 # License
 
