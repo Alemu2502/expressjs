@@ -1,6 +1,6 @@
 # Main Project Repository
 
-Welcome to the main repository. This repository contains two projects, each with its own detailed README file. Below, you will find links to the individual project detailed.
+Welcome to the main repository. This repository contains two projects, each with its own detailed README file. Below, you will find links to the individual project details.
 
 ## Table of Contents
 
@@ -16,13 +16,13 @@ Welcome to the main repository. This repository contains two projects, each with
 **Overview**: Provide a brief description of what Authentication-Autorization-Security
  is about. Include the main objectives or features.
 
-- [See Detailed for Authentication-Autorization-Security](./authentication-authorization-security)
+- [See Details for Authentication-Autorization-Security](./authentication-authorization-security)
 
 ## Expressjs-Restful_API
 
 **Overview**: Provide a brief description of what Expressjs-Restful_API is about. Include the main objectives or features.
 
-- [See Detailed for Expressjs-Restful_API](./expressjs-restful-api)
+- [See Details for Expressjs-Restful_API](./expressjs-restful-api)
 
 ## Getting Started
 
